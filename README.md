@@ -1,4 +1,4 @@
-Welcome to the Janken: 
+Welcome to Janken: 
 This project is a unique twist on the classic game of Rock-Paper-Scissors, developed by myself and my fellow classmate and friend.  
 Inspired by the challenging and intense atmosphere of the Dark Souls series, this version brings a new level of excitement and difficulty to the age-old game.
 I had to zip the code since we used a lot of gifs and images for this project and it made the file too large, for example since me and my friend arent really good animators
